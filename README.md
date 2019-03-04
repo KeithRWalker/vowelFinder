@@ -1,0 +1,2 @@
+# vowelFinder
+# This is just a place to test some Javasript I wanted to try out. Working with "indexOf" inside of a function that finds vowels from a string, and returns the amount of vowels in the string as an integer. This repo may be updated/changed into place for general function stuff.
